@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "discord.js": "^14.14.1",
-    "jsoning": "^0.11.2",
-    "util-minecraft": "^1.0.3"
+    "jsoning": "^0.11.2"
   }
 }
