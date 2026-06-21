@@ -1,0 +1,14 @@
+{
+  "name": "super-bot-hub",
+  "version": "1.0.0",
+  "description": "Bot de Gestão, Vendas, Tickets e Minecraft",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "jsoning": "^0.11.2",
+    "util-minecraft": "^1.0.3"
+  }
+}
