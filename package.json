@@ -1,7 +1,7 @@
 {
   "name": "super-bot-hub",
   "version": "1.0.0",
-  "description": "Bot de Gestão, Vendas, Tickets e Minecraft",
+  "description": "Bot Supremo de Gestão, Vendas, Tickets e Minecraft",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
